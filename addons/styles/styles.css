@@ -1,0 +1,18 @@
+* {
+    font-family: helvetica;
+  }
+
+a:link, a:hover, a:visited, a:active {
+    color: #C4262E;
+}  
+
+#heading { color: #C4262E; }
+#textNorm { 
+    font-size: 16px;
+    font-weight : normal;
+    color: #C0C0C0; 
+}
+
+body { 
+	background-color: #1A1B20;
+  }
